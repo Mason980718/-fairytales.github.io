@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>勿忘初衷</title>
-  <icon>https://mason980718.github.io/icon.png</icon>
-  <subtitle>Mason</subtitle>
+  <title>半页童话</title>
+  <icon>https://mason.github.io/icon.png</icon>
+  
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://mason980718.github.io/"/>
+  <link href="https://mason.github.io/"/>
   <updated>2020-07-02T07:48:33.302Z</updated>
-  <id>https://mason980718.github.io/</id>
+  <id>https://mason.github.io/</id>
   
   <author>
     <name>Mason</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://mason980718.github.io/2020/07/02/hello-world/"/>
-    <id>https://mason980718.github.io/2020/07/02/hello-world/</id>
+    <link href="https://mason.github.io/2020/07/02/hello-world/"/>
+    <id>https://mason.github.io/2020/07/02/hello-world/</id>
     <published>2020-07-02T07:48:33.302Z</published>
     <updated>2020-07-02T07:48:33.302Z</updated>
     
