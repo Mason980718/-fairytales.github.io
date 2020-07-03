@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>半页童话</title>
-  <icon>https://mason.github.io/icon.png</icon>
+  <icon>https://mason980718.github.io/icon.png</icon>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://mason.github.io/"/>
-  <updated>2020-07-02T07:48:33.302Z</updated>
-  <id>https://mason.github.io/</id>
+  <link href="https://mason980718.github.io/"/>
+  <updated>2020-07-03T06:30:44.588Z</updated>
+  <id>https://mason980718.github.io/</id>
   
   <author>
     <name>Mason</name>
@@ -17,9 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Exception</title>
+    <link href="https://mason980718.github.io/2020/07/03/Exception/"/>
+    <id>https://mason980718.github.io/2020/07/03/Exception/</id>
+    <published>2020-07-03T04:15:09.855Z</published>
+    <updated>2020-07-03T06:30:44.588Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="JAVA" scheme="https://mason980718.github.io/categories/JAVA/"/>
+    
+    
+      <category term="JAVA" scheme="https://mason980718.github.io/tags/JAVA/"/>
+    
+      <category term="异常" scheme="https://mason980718.github.io/tags/%E5%BC%82%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://mason.github.io/2020/07/02/hello-world/"/>
-    <id>https://mason.github.io/2020/07/02/hello-world/</id>
+    <link href="https://mason980718.github.io/2020/07/02/hello-world/"/>
+    <id>https://mason980718.github.io/2020/07/02/hello-world/</id>
     <published>2020-07-02T07:48:33.302Z</published>
     <updated>2020-07-02T07:48:33.302Z</updated>
     
